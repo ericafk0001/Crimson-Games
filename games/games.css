@@ -39,14 +39,20 @@ body {
   display: inline-block;
   margin-bottom: 0;
   margin-top: 7px;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: bold;
+  text-align: center;
   width: 150px;
-  overflow: scroll;
 }
 
 .game-desc {
-  color:gray;
+  color:rgb(180, 168, 168);
+  display: block;
+  width: 150px;
+  height: 60px;
+  margin: none;
+  text-align: center;
+  font-size: 13.5px;
 }
 
 .play-btn {
