@@ -27,6 +27,7 @@ body {
   padding: 4px;
   margin-right: 14px;
   vertical-align: top;
+  border-radius: 4px;
 }
 
 .game-img {
@@ -72,4 +73,8 @@ body {
   cursor: pointer;
   text-decoration: none;
   display: inline-block;
+}
+
+.play-btn:hover {
+  opacity: 78%;
 }
